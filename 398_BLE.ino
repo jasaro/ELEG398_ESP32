@@ -4,7 +4,7 @@
 
 // Define UUIDs for BLE
 #define SERVICE_UUID        "4fafc201-1fb5-459e-8fcc-c5c9c331914b"
-#define CHARACTERISTIC_UUID "beb5483e-36e1-4688-b7f5-ea07361b26a8"
+#define CHARACTERISTIC_UUID "0A81F540-F163-3A3F-0A55-1E49F0E7CA91"
 
 BLECharacteristic *pCharacteristic; // Pointer to characteristic
 
